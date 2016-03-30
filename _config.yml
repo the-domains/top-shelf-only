@@ -1,0 +1,28 @@
+name: Top Shelf Only
+favicon: null
+layout_spectrum: 0.59833046910353
+typography_spectrum: 0.011942612007260323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3052987954579294
+  lightness: 0.5235481068957597
+  saturation: 0.5879282290115952
+  rhythmicContrast: 0.3622307439800352
+purpose: []
